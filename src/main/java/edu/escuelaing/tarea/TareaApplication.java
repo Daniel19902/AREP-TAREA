@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TareaApplication {
 
 	public static void main(String[] args) {
+		System.out.println(9/5);
 		SpringApplication.run(TareaApplication.class, args);
 	}
 
